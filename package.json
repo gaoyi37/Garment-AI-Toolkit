@@ -1,0 +1,10 @@
+{
+“name”: “garment-ai-toolkit”,
+“version”: “1.0.0”,
+“description”: “AI tools for garment and ecommerce sellers”,
+“main”: “index.html”,
+“scripts”: {
+“start”: “echo Starting Garment AI Toolkit”
+},
+“license”: “MIT”
+}
